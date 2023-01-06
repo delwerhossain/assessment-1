@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+}
+.header-banner-part{
+    
+    background-image: url(/images/banner/banner2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg-banner{
+    
+    background-repeat: no-repeat;
+    background-color: black
+
+}
+.heading-banner{
+    margin-top: 500px;
+}

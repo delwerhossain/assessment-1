@@ -2,6 +2,10 @@
     margin: 0px;
     font-family: Work Sans;
 }
+body{
+    
+    border: 2px solid black;
+}
             /* header banner  */
 .nav-banner{
     /* border: 3px solid black; */
@@ -62,10 +66,21 @@
     
 
 }
-        /* section donate today */
+        /* section  */
 main section{
     margin-top: 15%;
     margin-bottom: 15%;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+    /* section part of contrary */
+.sec-contrary{
+}
+.header-contrary{
+    padding-left: 50%;
+    padding-bottom: 50%;
+
+}
+.header-contrary ul{
+    list-style: none;
 }

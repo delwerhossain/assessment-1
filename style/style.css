@@ -14,7 +14,7 @@ body {
 }
 
 .bg-image {
-    background-image: url(/images/banner/banner2.png);
+    background-image: url("/images/banner/banner2.png");
     background-repeat: no-repeat;
     background-size: cover;
     /* filter: blur(3px); */
@@ -152,7 +152,7 @@ table {
     text-align: center;
     height: 230px;
     width: auto;
-    background: linear-gradient(to right, rgb(255, 123, 0), rgb(245, 219, 189)), url(/images/watch.png);
+    background: linear-gradient(to right, rgb(255, 123, 0), rgb(245, 219, 189)), url("/images/watch.png");
     /* background-image: url(/images/watch.png); */
     /* background: linear-gradient(to right, #f27827 0%, #f6e8cc 100%); */
     border-radius: 15px;

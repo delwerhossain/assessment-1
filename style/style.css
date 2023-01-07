@@ -1,11 +1,15 @@
 * {
     margin: 0px;
     font-family: Work Sans;
+
 }
 
-body {
-
-    border: 2px solid black;
+body{
+    border: 1px solid black;
+    margin: 5px;
+}
+footer{
+    margin: 5px;
 }
 
 /* header banner  */
@@ -188,8 +192,8 @@ table {
 /* footer */
 footer {
     position: absolute;
-    width: 1600px;
-    height: 577px;
+    width: 99%;
+    height: auto;
     left: 0px;
     top: 2646.3px;
     /* Dark 01 */
@@ -235,4 +239,5 @@ footer {
 }
 .img-footer img{
     padding-left: 20px;
+    margin-bottom: 200px;
 }

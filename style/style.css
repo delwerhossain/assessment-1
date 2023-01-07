@@ -197,42 +197,42 @@ footer {
 }
 
 .heading-footer {
-    position: absolute;
-    width: 148px;
-    height: 53px;
-    left: 230px;
     font-family: 'Work Sans';
     font-style: normal;
     font-weight: 700;
     font-size: 45px;
-    line-height: 53px;
     /* identical to box height */
     color: #F8F8F8;
 }
 
 .des-footer {
-    position: absolute;
-    width: 485px;
-    height: 78px;
-    left: 230px;
     font-family: 'Work Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
-    line-height: 26px;
     color: #FFFFFF;
 }
 
-.contact-footer {
-    position: absolute;
-    width: 186px;
-    height: 26px;
-    left: 230px;
+
+.main-footer{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.heading-footer{
+    margin-bottom: 25px;
+}
+.des-footer{
+    margin-bottom: 40px;
+}
+.details-footer {
     font-family: 'Work Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
-    line-height: 26px;
     color: #FFFFFF;
+    margin-bottom: 30px;
 
+}
+.img-footer img{
+    padding-left: 20px;
 }

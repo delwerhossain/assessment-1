@@ -107,6 +107,13 @@ main section {
 
 .des-contrary {
     padding-bottom: 15px;
+    color: #444343;
+}
+.list-contrary{
+    color: #444343;
+}
+.sec-contrary{
+    padding-bottom: 50px;
 }
 
 .fa-solid,

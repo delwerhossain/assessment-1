@@ -18,7 +18,7 @@ footer{
 }
 
 .hd-img {
-    background-image: url("/images/banner/banner2.png");
+    background-image: url("../images/banner/banner2.png");
     background-repeat: no-repeat;
     background-size: cover;
     /* filter: blur(3px); */
@@ -88,6 +88,8 @@ main section {
 .img-contrary {
     /* background-color: #f85c2c; */
     /* border: 2px solid black; */
+    /* text-align: left; */
+    /* align-items: ; */
 
 }
 
@@ -114,6 +116,9 @@ main section {
 }
 .sec-contrary{
     padding-bottom: 50px;
+    display: flex;
+    margin: 150px 200px;
+    justify-content: center;
 }
 
 .fa-solid,
@@ -125,6 +130,7 @@ main section {
 .header-contrar img {
     /* object-position: left bottom; */
     /* background-image: url(/images/); */
+    /* text-align: ; */
 }
 
 /* section part of plan */
@@ -224,7 +230,10 @@ footer {
     color: #FFFFFF;
 }
 
-
+footer{
+    display: flex;
+    color: #FFFFFF;
+}
 .main-footer{
     margin-left: 10%;
     margin-top: 5%;
@@ -244,7 +253,42 @@ footer {
     margin-bottom: 30px;
 
 }
+.sub-er{
+    margin-left: 200px;
+    margin-top: 10%;
+}
 .img-footer img{
     padding-left: 20px;
     margin-bottom: 200px;
+}
+.btn-primary3{
+
+    height: 60px;
+    width: 150px;
+    /* left: 1220px; */
+    /* top: 50px; */
+    background-color: #f85c2c;
+    color: #FFFFFF;
+    border: 0px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.form{
+
+}
+
+.hr-c{
+color: #FFFFFF;
+}
+
+.input{
+
+    margin: 12px 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 70px;
+    padding-left: 10px;
+    font-size: 18px;
+    border-radius: 6px;
+
 }

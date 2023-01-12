@@ -3,7 +3,11 @@
     font-family: Work Sans;
 
 }
+/* image fix */
 
+
+
+/* body part */
 body {
     border: 1px solid black;
     margin: 5px;
@@ -102,7 +106,10 @@ main section {
     flex-direction: row;
     justify-content: space-between;
 }
-
+.img-contrary img{
+    height: 100%;
+    width: 100%;
+}
 .div-hg {
     padding-top: 15%;
 }
